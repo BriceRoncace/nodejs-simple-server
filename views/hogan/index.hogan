@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Hello from Node.js and Hogan.js</title>
+</head>
+<body>
+	<h2>Hello World!</h2>
+	<p>{{subtitle}}</p>
+</body>
+</html>
